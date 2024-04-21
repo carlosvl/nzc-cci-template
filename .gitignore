@@ -38,3 +38,4 @@ $RECYCLE.BIN/
 
 # Local environment variables
 .env
+.cci/orginfo/ruby-data-1449.scratch.my.salesforce.com__test-1ksmqborng3k__example.com/cumulusci.salesforce_api.org_schema/org_schema.db.gz

@@ -10,9 +10,16 @@
     "ForceComPlatform",
     "RecordTypes",
     "SustainabilityApp",
-    "TCRMForSustainability"
+    "TCRMForSustainability",
+    "DocGen",
+    "DocGenDesigner",
+    "DocGenInd",
+    "DisclosureFramework"
   ],
   "settings": {
+    "emailAdministrationSettings": {
+      "enableEnhancedEmailEnabled": true
+    },
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
